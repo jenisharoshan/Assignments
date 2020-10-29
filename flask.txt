@@ -18,3 +18,19 @@ VIDEO LINK 4 : https://youtu.be/xh3mFxbnc4o
 
 1)Rendering content in Html templates using flask
 2)Conditional statements and loops in Jinja 2
+
+VIDEO LINK 5 : https://youtu.be/DxI4jnb5m1Q
+ 
+1)Template inheritance in Jinja
+2)Block content
+
+VIDEO LINK 6 : https://youtu.be/-O9NMdvWmE8
+
+1)Flask-wtf
+2)Web Forms in Flask
+
+VIDEO LINK 7 : https://youtu.be/f8qvLBvrIFI
+
+1)Rendering html pages
+1)Getting data from Web Forms
+
