@@ -1,0 +1,20 @@
+VIDEO LINK : https://youtu.be/7M1MaAPWnYg
+
+1)Introduction to Flask
+2)Creating a Flask Website
+
+VIDEO LINK 2 : https://youtu.be/f085KDOy43k
+
+1)Routing in flask 
+2)Specifying variable rules 
+
+VIDEO LINK 3 : https://youtu.be/NKJV0ekmo4U
+
+1)Rendering Templates
+2)Passing a variable to render_template
+3)Jinja syntax
+
+VIDEO LINK 4 : https://youtu.be/xh3mFxbnc4o
+
+1)Rendering content in Html templates using flask
+2)Conditional statements and loops in Jinja 2
