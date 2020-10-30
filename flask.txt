@@ -41,3 +41,4 @@ VIDEO LINK 8 : https://youtu.be/Z1RJmh_OqeA
  2)Create a small Application using Flask
  3)Create a To-Do List with Update and Delete Options
  4)Introduction to request
+ 
